@@ -1,0 +1,3 @@
+.venv
+FastAPI/__pycache__
+FastAPI/finance.db
